@@ -1,5 +1,6 @@
 package Easy;
 
+import java.util.*;
 // https://leetcode.com/problems/majority-element/description/
 
 class Solution {
