@@ -1,4 +1,3 @@
-package Hard;
 
 // https://leetcode.com/problems/split-array-largest-sum/description/
 

@@ -1,4 +1,3 @@
-package Hard;
 //https://leetcode.com/problems/find-in-mountain-array/description/
 // Leetcode problem: 1095
 /**

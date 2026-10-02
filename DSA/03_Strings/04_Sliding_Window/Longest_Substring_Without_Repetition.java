@@ -1,4 +1,3 @@
-package Medium;
 
 import java.util.*;
 

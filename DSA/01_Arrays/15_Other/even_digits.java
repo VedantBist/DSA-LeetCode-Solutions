@@ -1,4 +1,3 @@
-package Easy;
 
 //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 // Leetcode problem: 1295

@@ -1,4 +1,3 @@
-package Medium;
 
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 //Leetcode problem: 34
